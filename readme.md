@@ -1,6 +1,7 @@
 # Espresso OS X Terminal Theme
 
 ## Features
+* Compatible with OS X 10.7 (Lion)
 * New color scheme inspired by the TextMate theme idleFingers (http://idlefingers.co.uk/)
 * Proper Home and End key functionality (beginning/end of current line)
 
