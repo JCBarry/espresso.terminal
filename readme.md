@@ -1,5 +1,7 @@
 # Espresso OS X Terminal Theme
 
+![screenshot](https://raw.github.com/JCBarry/espresso.terminal/master/screenshot.png)
+
 ## Features
 * Compatible with OS X 10.7 (Lion)
 * New color scheme inspired by the TextMate theme idleFingers (http://idlefingers.co.uk/)
